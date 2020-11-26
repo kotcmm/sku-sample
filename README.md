@@ -1,5 +1,7 @@
 # sku-sample
 
+![show](10.gif "show")
+
 ## Project setup
 ```
 yarn install
